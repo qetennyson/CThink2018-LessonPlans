@@ -1,0 +1,46 @@
+
+
+Monday
+      1. Push Glossary/Dictionary assignment.
+      2. Review additional dictionary examples.
+      3. Advise students that they will need to bring paper/pencil to the remainder of the week's classes.
+      4. Advise students that we will have an assessment next week.
+    
+Tuesday
+      1. Begin comprehensive review of all topics - whiteboard.
+      2. Should include
+          1. Variable assignment and use
+              a. Use moving a variable from one var to another as an example. - http://bit.ly/2FKyUKS
+              b. Basic mathematic operations, be sure to include modulo.
+              c. Strings (easy) - http://bit.ly/2G8jrng, http://bit.ly/2G6Cyhy
+          2. Proper use of if, elif, and else.
+              a. Should include why we use elif/else. 
+              b. Should include when we use and/or.
+              c. Should include when to use not.
+              d. Evaluation of true/false.
+          3. Printing and concatenating strings
+              a. Should include type conversion / discussion of type.  
+              b. String methods.  - http://bit.ly/2G1dQ27, http://bit.ly/2FOT16H
+          4. Lists and their methods.
+              a. List indices begin at 0, and store 'elements' at 'indices' - http://bit.ly/2pmkeGN
+              b. Determine the length of a list with len, and reference the last object with -1, second to last with -2 
+							 - http://bit.ly/2pnSEsN
+              c. Print the elements of a list, and use .title() - http://bit.ly/2IxyfKM
+              d. Explanation of insert, append, pop, and KEYWORD del. - http://bit.ly/2HLLRRw, http://bit.ly/2IxyfKM
+							e. Explanation of sort vs. sorted - http://bit.ly/2HJp1tC
+              
+  ** Lesson Planning for Wednesday / Thursday / Friday **
+              
+Wednesday
+       1. Begin discussion of for loops.
+       2. Prepare for assignment 3.
+       3. May be necessary to continue review on Wednesday depending on time.
+
+Thursday
+      1. Assignment 3 begins
+      2. **Need extension work**
+      
+Friday
+      1. Assignment 3 completed.
+
+       
